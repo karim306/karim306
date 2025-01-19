@@ -1,24 +1,31 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim306" alt="karim306" /></a> </p>
+# About Me
 
-# About me
+![GIF](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
 
-Hi, I’m @karim306 aka Kareem.
+Hi, I’m @karim306, aka Kareem.
 
 I'm a Backend Developer from Egypt, passionate about cybersecurity and solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
 
-#### What I already had done:
-- Hacking/Cybersecurity :lock:, solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
-- CTF challenges, I enjoy solving new challenges and learning things on platforms like TryHackMe and Hack The Box.
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=karim306)
+
+---
+
+#### What I Already Had Done:
+- Hacking/Cybersecurity 🔒, solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
+- CTF challenges: I enjoy solving new challenges and learning things on platforms like TryHackMe and Hack The Box.
 - Worked on a backend authentication app using Node.js, focusing on implementing secure and efficient authentication systems.
 - Developed secure and efficient authentication mechanisms, improving application security practices.
 - Familiar with front-end and back-end development using various technologies.
-- Explored AI with Python :snake:, including TensorFlow for some projects.
+- Explored AI with Python 🐍, including TensorFlow for some projects.
 - Built websites and applications in JavaScript and Python with CSS and HTML.
-- Worked with Docker :whale:, deploying applications using Dockerfiles.
-- Used databases :file_folder:, including both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).
+- Worked with Docker 🐳, deploying applications using Dockerfiles.
+- Used databases 📂, including both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).
 - Regularly write articles about my projects and findings on Medium.
 
-#### Languages/Frameworks/Libraries I interacted with:
+---
+
+## Languages/Frameworks/Libraries I Interacted With:
+
 
 ![JavaScript](https://img.shields.io/badge/%3C%2F%3E-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/%3C%2F%3E-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,18 +41,24 @@ I'm a Backend Developer from Egypt, passionate about cybersecurity and solving c
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/%3C%2F%3E-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## Platform profiles
+---
+
+## Platform Profiles
 
 - [TryHackMe](https://tryhackme.com/p/0xFreind)
 - [Hack The Box](https://www.hackthebox.com/home/users/profile/Karim306)
 
-## Mindset - Why don't ask?!
+---
+
+## Mindset - Why Don't Ask?!
 
 - I love learning new stuff.
 - I like automating processes.
 - Passionate about software and hardware security.
 - Aim to solve problems like an engineer.
 
-## Connect with me:
+---
+
+## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-311b59344/)  
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@karimahmed011161)
