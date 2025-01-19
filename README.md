@@ -1,4 +1,4 @@
-![Welcome to my profile](./github-header-image.png)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim306" alt="karim306" /></a> </p>
 
 # About me
 
