@@ -39,7 +39,7 @@ I'm a Backend Developer from Egypt, passionate about cybersecurity and solving c
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/%3C%2F%3E-React-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 ---
 
