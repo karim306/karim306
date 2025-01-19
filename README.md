@@ -34,7 +34,10 @@ I'm a Backend Developer from Egypt, passionate about cybersecurity and solving c
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/%3C%2F%3E-React-61DAFB?style=flat&logo=react&logoColor=black)
 
+## Platform profiles
 
+- [TryHackMe](https://tryhackme.com/p/karim306)
+- [Hack The Box](https://www.hackthebox.com/home/users/profile/Karim306)
 
 ## Mindset - Why don't ask?!
 
@@ -44,5 +47,5 @@ I'm a Backend Developer from Egypt, passionate about cybersecurity and solving c
 - Aim to solve problems like an engineer.
 
 ## Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/kareem-ahmed-311b59344/)  
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@karimahmed011161)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-311b59344/)  
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@karimahmed011161)
