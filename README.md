@@ -1,27 +1,48 @@
-<h1 align="center">Hi 👋, I'm Kareem</h1>
-<h3 align="center">A Backend Developer from Egypt passionate about cybersecurity, solving challenges on PortSwigger, TryHackMe, and Hack The Box.</h3>
+![My random profile](./github-header-image.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim306" alt="karim306" /></a> </p>
+# About me
 
-- 🔭 I’m currently working on **A backend authentication app using Node.js, focusing on implementing secure and efficient authentication systems.**
+Hi, I’m @karim306 aka Kareem.
 
-- 🌱 I’m currently learning **Cybersecurity, particularly vulnerability analysis, and strengthening my knowledge of application security practices.**
+I'm a Backend Developer from Egypt, passionate about cybersecurity and solving challenges on PortSwigger, TryHackMe, and Hack The Box.
 
-- 👯 I’m looking to collaborate on **Backend development projects, particularly those involving security practices or authentication mechanisms.**
+#### What I already had done:
+- Hacking/Cybersecurity :lock:, solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
+- CTF challenges, I enjoy solving new challenges and learning things on platforms like TryHackMe and Hack The Box.
+- Worked on a backend authentication app using Node.js, focusing on implementing secure and efficient authentication systems.
+- Developed secure and efficient authentication mechanisms, improving application security practices.
+- Familiar with front-end and back-end development using various technologies.
+- Explored AI with Python :snake:, including TensorFlow for some projects.
+- Built websites and applications in JavaScript and Python with CSS and HTML.
+- Worked with Docker :whale:, deploying applications using Dockerfiles.
+- Used databases :file_folder:, including both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).
+- Regularly write articles about my projects and findings on Medium.
 
-- 📝 I regularly write articles on [https://medium.com/@karimahmed011161](https://medium.com/@karimahmed011161)
+#### Languages/Frameworks/Libraries I interacted with:
 
-- 📫 How to reach me **karimahmed011161@gmail.com**
+![JavaScript](https://img.shields.io/badge/%3C%2F%3E-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/%3C%2F%3E-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.JS](https://img.shields.io/badge/%3C%2F%3E-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/%3C%2F%3E-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kareem-ahmed-311b59344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kareem-ahmed-311b59344/" height="30" width="40" /></a>
-<a href="https://medium.com/@karimahmed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karimahmed1" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim306&show_icons=true&locale=en&layout=compact" alt="karim306" /></p>
+## Mindset - Why don't ask?!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim306&" alt="karim306" /></p>
+- I love learning new stuff.
+- I like automating processes.
+- Passionate about software and hardware security.
+- Aim to solve problems like an engineer.
+
+## Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/kareem-ahmed-311b59344/)  
+[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@karimahmed011161)
