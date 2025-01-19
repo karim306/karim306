@@ -1,10 +1,10 @@
-![My random profile](./github-header-image.png)
+![Welcome to my profile](./github-header-image.png)
 
 # About me
 
 Hi, I’m @karim306 aka Kareem.
 
-I'm a Backend Developer from Egypt, passionate about cybersecurity and solving challenges on PortSwigger, TryHackMe, and Hack The Box.
+I'm a Backend Developer from Egypt, passionate about cybersecurity and solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
 
 #### What I already had done:
 - Hacking/Cybersecurity :lock:, solving challenges on platforms like PortSwigger, TryHackMe, and Hack The Box.
@@ -36,7 +36,7 @@ I'm a Backend Developer from Egypt, passionate about cybersecurity and solving c
 
 ## Platform profiles
 
-- [TryHackMe](https://tryhackme.com/p/karim306)
+- [TryHackMe](https://tryhackme.com/p/0xFreind)
 - [Hack The Box](https://www.hackthebox.com/home/users/profile/Karim306)
 
 ## Mindset - Why don't ask?!
